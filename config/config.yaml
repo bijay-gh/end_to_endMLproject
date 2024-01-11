@@ -1,9 +1,9 @@
 artifacts_root: artifacts
 
 data_injection:
-  root_dir: artifacts/data_injestion
+  root_dir: artifacts/data_ingestion
   source_URL: https://github.com/bijay-gh/end_to_endMLproject/raw/main/archive.zip
-  local_data_file: artifacts/data_injestion/data.zip
-  unzip_dir: artifacts/data_injestion
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
 
 
